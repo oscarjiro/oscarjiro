@@ -47,7 +47,7 @@ I'm a creative developer with a passion for full-stack development, artificial i
 *Apr 2024 – May 2024*  
 - A mobile app prototype for financial management, inspired by Japanese sumo principles. The app enables individuals to manage finances effectively by integrating features for managing cards, wallets, transactions, and analytics with an intuitive UI based on HCI and UX principles.  
 
-#### [Kane - Financial Management Prototype]([https://www.figma.com/file/xyz](https://www.figma.com/proto/bmmWCgtUxKvQYkGYd5aYTt/Kane?node-id=47-968&node-type=frame&t=PQZY1TtJI1RaZBXf-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=47%3A968&show-proto-sidebar=1))  
+#### [Kane - Financial Management Prototype](https://www.figma.com/proto/bmmWCgtUxKvQYkGYd5aYTt/Kane?node-id=47-968&node-type=frame&t=PQZY1TtJI1RaZBXf-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=47%3A968&show-proto-sidebar=1)  
 *Apr 2024 – May 2024*  
 - A mobile app prototype designed for financial management, inspired by Japanese sumo principles to enable individuals to manage finances effectively. Features include card management, wallet management, transaction tracking, and financial analytics with a user-friendly, intuitive UI.  
 
