@@ -43,7 +43,7 @@ I'm a creative developer with a passion for full-stack development, artificial i
 
 ### 🚀 **Projects**
 
-#### [PPIF 2024](https://github.com/oscarjiro/ppif2024)
+#### [PPIF 2024](https://github.com/oscarjiro/ppif24-app)
 *Apr 2024 – May 2024*  
 - A mobile app prototype for financial management, inspired by Japanese sumo principles. The app enables individuals to manage finances effectively by integrating features for managing cards, wallets, transactions, and analytics with an intuitive UI based on HCI and UX principles.  
 
