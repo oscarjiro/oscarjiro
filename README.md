@@ -19,8 +19,10 @@ I'm a creative developer with a passion for full-stack development, artificial i
 #### **Frontend Development**  
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-3A3A3A?style=flat&logo=alpinejs&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=mui&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-3A3A3A?style=flat&logo=alpinejs&logoColor=white)
 
 #### **Backend Development**  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
