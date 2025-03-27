@@ -19,10 +19,10 @@ I'm a creative developer with a passion for full-stack development, artificial i
 #### **Frontend Development**  
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-E63AA3?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=mui&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-3A3A3A?style=flat&logo=alpinejs&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0883FF?style=flat&logo=mui&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-77C1D2?style=flat&logo=alpine.js&logoColor=black)
 
 #### **Backend Development**  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -34,7 +34,8 @@ I'm a creative developer with a passion for full-stack development, artificial i
 
 #### **Databases**  
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat&logo=firebase&logoColor=ffc400)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-689DC8?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
